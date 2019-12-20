@@ -27,3 +27,8 @@
         Press 3. Delete a course(NEED ID OF COURSE)
 
         Enter a Choice:
+
+// Download this repo 
+    $ git clone "myrepositorylink"
+
+// Execute the Script
